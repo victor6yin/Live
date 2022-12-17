@@ -13,8 +13,6 @@ http://ls.qingting.fm/live/339.m3u8
 http://ls.qingting.fm/live/345.m3u8
 #EXTINF:-1,北京故事广播
 http://ls.qingting.fm/live/337.m3u8
-#EXTINF:-1,北京体育广播
-http://ls.qingting.fm/live/335.m3u8
 #EXTINF:-1,北京外语广播
 http://ls.qingting.fm/live/334.m3u8
 #EXTINF:-1,北京青年广播
@@ -65,6 +63,46 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,Today’s Hits
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1,Pop Hits
+http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1,Alternative Hits
+http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+#EXTINF:-1,Country Hits
+http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+#EXTINF:-1,Country Roads
+http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+#EXTINF:-1,Relax & Unwind
+http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+#EXTINF:-1,Smooth Jazz
+http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+#EXTINF:-1,The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1,Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1,Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1,Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1,Coffee House
+http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+#EXTINF:-1,80后音悦
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1,经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1,有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1,安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1,民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1,天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1,摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1,国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 #EXTINF:-1,DRHK
 http://ice.digitalradiohk.net:8000/drhk
 #EXTINF:-1,One FM
@@ -85,6 +123,8 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+#EXTINF:-1,CNA938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1,Al Jazeera
